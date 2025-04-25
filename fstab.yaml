@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/10YtvQf2K_9YjS4FgWo0P_zVBG4SLf2Li
+  /:
+    url: https://content.da.live/nirmaljosehere/qa-doc-csc/
+    type: markup
